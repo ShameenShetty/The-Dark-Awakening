@@ -14,4 +14,14 @@ Due to my schedule where I am currently working on some projects as well as my s
 For this game I had planned on adding Lovecraftian themes, as well as looking to other games such as *Still Wakes the Deep*, *Bloodborne* (Insight mechanic in particular) for inspiration.
 
 # Screenshots:
+* Entire Level Layout - a 100 by 100 area
 ![Entire Level Layout](https://raw.githubusercontent.com/ShameenShetty/The-Dark-Awakening/refs/heads/main/Other_Stuff/Screenshot%202025-03-31%20at%207.08.45%E2%80%AFPM.png)
+
+* The Library Area
+![Library Area](https://raw.githubusercontent.com/ShameenShetty/The-Dark-Awakening/refs/heads/main/Other_Stuff/Screenshot%202025-03-31%20at%207.09.12%E2%80%AFPM.png)
+
+* A closer look at the Library Area
+![](https://raw.githubusercontent.com/ShameenShetty/The-Dark-Awakening/refs/heads/main/Other_Stuff/Screenshot%202025-03-31%20at%207.09.47%E2%80%AFPM.png)
+
+* How the Library Area looks like In-game
+![](https://raw.githubusercontent.com/ShameenShetty/The-Dark-Awakening/refs/heads/main/Other_Stuff/Screenshot%202025-03-31%20at%207.10.10%E2%80%AFPM.png)
