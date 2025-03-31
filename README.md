@@ -27,4 +27,4 @@ For this game I had planned on adding Lovecraftian themes, as well as looking to
 ![](https://raw.githubusercontent.com/ShameenShetty/The-Dark-Awakening/refs/heads/main/Other_Stuff/Screenshot%202025-03-31%20at%207.10.10%E2%80%AFPM.png)
 
 * Game Demo of the Library Section
-![Library Area Recording](Other_Stuff/Dark Awakening Library Room.mp4)
+![Watch the video](Other_Stuff/Dark%20Awakening%20Library%20Room.mp4)
