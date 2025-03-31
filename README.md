@@ -12,3 +12,6 @@ However, after turning on all the circuits, something sinister awakens in the ho
 # Plans:
 Due to my schedule where I am currently working on some projects as well as my studies, I had limited time to work on *The Dark Awakening*, a problem made more difficult due to my unfamiliarity with the Unity game engine - while I was learning Unity I was also making the game. Due to this there are a lot of things that I wanted to add, but did not get the time to do so, and will have to learn
 For this game I had planned on adding Lovecraftian themes, as well as looking to other games such as *Still Wakes the Deep*, *Bloodborne* (Insight mechanic in particular) for inspiration.
+
+Screenshots
+![Entire Level Layout](Other_Stuff/Screenshot 2025-03-31 at 7.08.45 PM.png)
